@@ -19,6 +19,7 @@ export default {
       path: "/detail",
       component: Detail,
       name: "detail",
+      props: true,
     },
   ],
 };
